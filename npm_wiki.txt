@@ -1,0 +1,11 @@
+npm install <package name> - install package locally for the actual project
+npm install -g <package name> - install package globally
+
+npm list  - list all local packages
+npm list -g - list all global packages
+
+npm list <package name> - show local package version
+npm list -g <package name> - show global package version
+
+npm outdated - check for outdated packages in the package.json
+
